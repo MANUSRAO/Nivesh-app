@@ -1,6 +1,5 @@
-# Nivesh
-* We use Ethereum blockchain to tokenize assets and help retail investors invest in real estate with small capital.
-* We only list government verified assests to protect our investors.
+# Nivesh 
+* Project Title: Tokenizing Real Estate Investments through Blockchain
 
 ## To invest
 * Please install metamask wallet in your browser first.
