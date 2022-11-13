@@ -4,6 +4,7 @@
 ## To invest
 * Please install metamask wallet in your browser first.
 * Change the network from `Ethereum Mainnet` to `Mumbai Testnet`
+* Make sure you have non zero Matic balance in your wallet.
 * That's it, you're good to go!
 * Happy Investing!
 
